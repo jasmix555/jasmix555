@@ -1,7 +1,5 @@
 ### Hi there, welcome to my GitHub page.
 
- My stats | Link |
-
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmix555&theme=apprentice&show__icons=true)](https://github.com/jasmix555/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=apprentice&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
