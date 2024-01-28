@@ -1,4 +1,6 @@
 ### Hi there, welcome to my GitHub page.
+# Currently studying Web Design abroad in japan.
+# Mainly focusing on Front end by using Next js as a framework to create and develop web application and sites
 
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmix555&theme=apprentice&show__icons=true)](https://github.com/jasmix555/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmix555&theme=apprentice&show__icons=true&layout=compact)](https://github.com/jasmix555/github-readme-stats) 
