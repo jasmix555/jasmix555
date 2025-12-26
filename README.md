@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there!👋 </h1>
 
 ###
 
-<p align="left">👋 Hi, I’m Jason<br><br>Frontend Engineer focused on building clean, fast, and maintainable web interfaces.<br><br>I care about structure, performance, and long-term maintainability — not trendy abstractions that age badly.</p>
+<p align="left">Hi, I’m Jason<br><br>Frontend Engineer focused on building clean, fast, and maintainable web interfaces.<br><br>I care about structure, performance, and long-term maintainability — not trendy abstractions that age badly.</p>
 
 ###
 
